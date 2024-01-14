@@ -1,0 +1,11 @@
+python-dotenv
+faiss-cpu
+joblib
+nltk
+numpy
+openai
+pandarallel
+pandas
+sentence-transformers
+spacy
+tqdm
