@@ -11,6 +11,8 @@ This project aims to generate analysis-ready datasets to understand trends in th
 5. **classify_into_topics.py**: Python code to classify the fetched publications into various AI topics.
 6. **reformat_to_flourish.py**: Reformats the data for visualization in [Flourish Studio](https://flourish.studio/).
 
+> /2023_dataset_outputs/ is the directory where the output files are stored. If you're just interested in analyzing the data, you can directly use the files from this directory.
+
 ## Installation
 - Ensure Python 3.8+ is installed.
 - Install required packages: `pip install -r requirements.txt`
